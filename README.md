@@ -12,32 +12,26 @@ With over 5 years of experience in mobile app development, I've had the pleasure
 - 📫 **How to Reach Me:** [hello@amineboularbah.com](mailto:hello@amineboularbah.com)
 - ⚡ **Fun Fact:** I've developed apps that have achieved over 10,000 downloads within three months.
 
-## Technologies & Tools
-
-- 🚀 **Languages:** Dart, Swift/SwiftUI, JavaScript, TypeScript
-- 📱 **Frameworks:** Flutter, React Native
-- 🛠️ **Tools:** Git, Firebase, Codemagic CI/CD, and more
-- ☁️ **Backend:** NestJS, Spring Boot
-- 💻 **IDEs:** VS Code, Android Studio, Xcode
-
 ## Featured Projects
 
-- **Ignite Tournaments:** Led the development of the first mobile esports platform with crypto and NFT rewards, boosting user engagement and revenue.
-- **MyButcher App:** Developed a cross-platform e-commerce application, integrating Firebase and Shopify APIs to enhance user retention.
-- **Barid Purchase:** Built for Poste Maroc using Flutter, achieving a 99% crash-free session rate across Android and iOS.
+- **Ignite Tournaments**: The first mobile esports platform integrating crypto and NFT rewards. Designed and developed gamified experiences to enhance user engagement and track tournament progress.  
 
-## Certifications
+- **Webondd**: A social networking app for local communities, enabling users to connect through events and shared interests. Developed a clean, intuitive interface with seamless API integrations.  
 
-- 🏅 Meta iOS Developer Professional Certificate ([Verify](https://coursera.org/verify/professional-cert/78GNB17YLC98))
-- 🏅 React Native - Meta ([Verify](https://coursera.org/share/f85bd8e37c262918b090bd10d2429367))
-- 📜 Front End Libraries - freeCodeCamp ([Verify](https://www.freecodecamp.org/certification/amineboularbah/front-end-libraries))
-- 📜 JavaScript Algorithms and Data Structures - freeCodeCamp ([Verify](https://www.freecodecamp.org/certification/amineboularbah/javascript-algorithms-and-data-structures))
-- 📜 Responsive Web Design - freeCodeCamp ([Verify](https://www.freecodecamp.org/certification/amineboularbah/responsive-web-design))
+- **iSophro**: A mental health and mindfulness app making sophrology accessible to all. I focused on creating a calming user experience with guided exercises and progress tracking.  
 
-## Let's Connect!
+More details and insights on these projects are available in my [portfolio](https://www.amineboularbah.com).
 
-- [LinkedIn](https://www.linkedin.com/in/amine-boularbah-b7401a197)
-- [GitHub](https://github.com/amineboularbah)
-- [Personal Website](https://www.amineboularbah.com)
+## GitHub Stats & Contributions
 
-I'm passionate about crafting seamless, scalable mobile experiences that make a difference. Let's build something amazing together!
+Here’s a snapshot of my contributions and activity on GitHub:
+
+![Amine Boularbah's GitHub stats](https://github-readme-stats.vercel.app/api?username=amineboularbah&show_icons=true&theme=radical)
+
+[![Amine Boularbah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amineboularbah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amineboularbah&layout=compact&theme=radical)
+
+---
+
+For more projects and details, visit my [website](https://www.amineboularbah.com).
