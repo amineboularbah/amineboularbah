@@ -26,7 +26,7 @@ More details and insights on these projects are available in my [portfolio](http
 
 Here’s a snapshot of the tools and technologies I use regularly:
 
-- 🚀 **Languages:** Dart, JavaScript, TypeScript
+- 🚀 **Languages:** Dart,Swift, SwiftUI, JavaScript, TypeScript
 - 📱 **Frameworks:** Flutter, React Native
 - 🔧 **Tools & Platforms:** Firebase, Google Maps API, Codemagic CI/CD
 - 💻 **Backends:** NestJS, Spring Boot
