@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amine Boularbah!
 
-**Senior Mobile Developer | Flutter & React Native Expert | Tech Enthusiast**
+**Senior Mobile Developer | Flutter, iOS, Android & React Native Expert | Tech Enthusiast**
 
 With over 5 years of experience in mobile app development, I’ve had the privilege of working with innovative startups and teams across four countries. My focus is on building impactful, user-centric mobile applications, leveraging both native and cross-platform frameworks like Flutter and React Native to deliver exceptional results.
 
