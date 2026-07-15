@@ -57,4 +57,4 @@ Health tracking app for people with chronic conditions. AI pattern recognition g
 
 ---
 
-*Open to select remote opportunities. Available from September 2026.*
+*Open to select remote opportunities.*
